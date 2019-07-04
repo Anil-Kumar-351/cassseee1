@@ -10,4 +10,4 @@ When enter username as "<name1>"
  
  Examples:
  |name1|pasd1|
- |AlexUser|Alex@123|
+ |anilkumar|anilkumar114|

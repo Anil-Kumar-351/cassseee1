@@ -8,4 +8,4 @@ And user search for a product"head"
 Then click on find button
 Examples:
 |unamee|psdd|
-|AlexUser|Alex@123|
+|anilkumar|anilkumar114|
